@@ -5,12 +5,12 @@ export default function Contact() {
     <div>
       <p className=' py-14 text-center text-5xl font-bold'>Contact Us</p>
       <div className='flex'>
-        <div className='Contact'> 
+        <div className='Contact px-6 '> 
          <img src="https://s3-alpha-sig.figma.com/img/e06a/0c01/aff2b36e84812b8085609fffab651dda?Expires=1697414400&Signature=LpVbdrLCKWQp~tR~AABroRBAuCNd2sEkYyfnw4w8oKZ4dN4FEtzI4RPQaPDht7nSG1Uf4Va~EPd7S-Xg8hpdIzL4xYyRirZCum21y7YU5iIOovizRWSkZ6mwe0ztEGaSGsZm0P1laNBP3rDvXcr~4i8qqrkcDQj3vd4tnXY9CCy6FycySlviiBpNNdF4f1e~3Z6SRwMb-e5QAc4i2y~xAnSE19Pf1pF1Bsz0nMlWwryrF0MwkuukpU1HY~c8GAQJ3OkmdGWyi8WevNt9si6MEDjr7yHd-tmny6KxC5i3tmjjNKJLBCAHFUq9R2QVh8ruF0fFxDoSs0Bc2r3uekXJsQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" alt="" />
         </div>
         <div >
-         <p className=' Text' >Simply dummy text of the printing </p>
-         <p className='Small_letters text-xl py-4'>Simply dummy text of the printing and typesetting industry. Lorem had ceased to 
+         <p className=' Text  text-cyan-900 text-7xl font-extrabold' >Simply dummy text of the printing </p>
+         <p className='Small_letters text-xl py-4 text-cyan-900 '>Simply dummy text of the printing and typesetting industry. Lorem had ceased to 
 been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
          <div> 
            <span className='flex py-12 px-8'>
